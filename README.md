@@ -1,27 +1,41 @@
-Hi, I’m Jerra Novia Anggela
+# Hi, I’m Jerra
 
-I’m an operations-focused professional who enjoys communication, coordination, and supporting fast-paced environments.
+I’m an operations-focused professional who helps support fast-moving teams through structured communication, coordination, and execution.
 
-Core Strengths
+I enjoy working in dynamic environments where clarity, speed, and reliability matter.
 
-* Communication & coordination
-* Outreach & follow-up management
-* Task & workflow organization
-* Event support
+---
 
-Working Style
+## Core Strengths
+- Communication & coordination support  
+- Outreach & follow-up management  
+- Task and workflow organization  
+- Event and operational support  
 
-* Structured and clear thinking
-* Fast learner and adaptable
-* Reliable in execution
-* Comfortable in dynamic environments
+---
 
-Tools
+## Focus Areas
+- Supporting founders and fast-paced teams  
+- Building structured communication systems  
+- Managing tasks and priorities with clarity  
+- Ensuring smooth execution across workflows  
 
-* Google Workspace
-* Notion / Trello
-* Email communication
+---
 
-Goal
+## Working Style
+- Clear and structured thinking  
+- Fast learner and adaptable  
+- Reliable in execution  
+- Comfortable handling ambiguity and changing priorities  
 
-To support founders and teams with clear communication and smooth execution
+---
+
+## Tools
+- Google Workspace  
+- Notion / Trello  
+- Email communication systems  
+
+---
+
+## Goal
+To support teams and founders by ensuring operations run smoothly, communication stays clear, and execution is consistent.
